@@ -48,12 +48,6 @@ As it is not trained you will need to provide data use below kaggele dataset dow
 ####
 ##### 3. The predicted pose will be displayed below the image.
 
-## Follow Me on LinkedIn
-If you find this project interesting or useful feel free to connect with me on LinkedIn for more updates and projects.
-
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushdahiwale/)
 
 
 
